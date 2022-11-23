@@ -551,6 +551,7 @@ To see your NPCBots in raid you can use one of these:
 [nUI 5.06.30](https://www.curseforge.com/wow/addons/nui/files/445101) (complete interface redesigner)  
 [HealBot 3.3.5.4](https://www.curseforge.com/wow/addons/heal-bot-continued/files/456315) (only unit frames, mostly for healing but configurable)  
 [OrlanHeal 1.1](https://www.curseforge.com/wow/addons/orlanheal-discontinued/files/451226) (same as HealBot but minimalistic)  
+[CompactRaidFrame](https://github.com/RomanSpector/CompactRaidFrame) (Backport of modern blizzard UI's raid frame to 3.3.5a)
 
 #### NPCBots and Vehicles
 NPCBots will always try to use vehicles when player does. With random vehicle types bots will simply copy player actions, but for the essential vehicles bots will use their own tactics. Here is the list:
